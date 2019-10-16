@@ -1,0 +1,33 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+
+*{
+    margin:0px;
+}
+
+ul {
+    list-style: none;
+    background-color:#E6E6FA;
+    padding-top:7px;
+    padding-bottom:7px;
+    text-align:center;
+}
+
+ul li {
+    padding-left:30px;
+    display:inline;
+}
+
+a {
+    text-decoration:none;
+    font-family:verdana;
+    font-size:14pt;
+    color:#000000;
+}
+a:hover {
+    text-decoration:underline;
+    color:#0000ff;
+}
